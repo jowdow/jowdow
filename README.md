@@ -1,16 +1,50 @@
-### Hi there 👋
+### Welcome, I am Joseph Douglas👋
+<!-- This is for visitor count <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jowdow.jowdow">-->
+<p align="center">
+  <td width="50%">
 
-<!--
-**jowdow/jowdow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;<p align="center">[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/joseph-douglas937/)
+<a href="https://twitter.com/jowdow2"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jowdow2?style=flat-square&color=09f&labelColor=black&logo=twitter&label=Twitter"></a>
 
-Here are some ideas to get you started:
+  </p>
+  </td>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I am a recent graduate from the University of Toledo. I hope to guide my career in the field of using software to interact with hardware like in embedded systems. I am very excited to start my journey as an engineer and help create a better future for all. 
+
+  Outside of being a dev, I have a giant green thumb and I am slowly growing my indoor/outdoor garden. Being that I live in a normally colder climate, I am growing some exotic things like mango trees and banana trees as well as normal vegatables like tomatoes, potatoes, peppers, peas, mint(HERB), and many house plants.  
+
+  I have plans to start/complete projects now out of college and I have more time to research and develop some of these project ideas. I am currently working and learning more about micro-controllers like RP 2040 and ESP-32. 
+
+### Project Ideas
+- Software to detect malicious interactions via bluetooth
+- Home Surveillance Drone
+- LiDAR System to display/detect curbs
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+
+</p>
+
+
+### 💻 Software and tools
+
+<p>
+    <!--Add something about Visual Studio  -->  
+    <!--Add something about Logic analyzer  -->  
+    <!--Add something about keil  -->
+    <!--Add something about fusion360  -->
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
