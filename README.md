@@ -18,14 +18,15 @@
 
 ### Project Ideas
 - Software to detect malicious interactions via bluetooth
-- Home Surveillance Drone
+- Home/Whole Property Surveillance Drone
 - LiDAR System to display/detect curbs
+- Kitchen/Cooking Assistant
 
 ### 🧰 Frameworks and libraries
 - Learning
 
   <a href="#"><img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-orange?style=flat&logo="></a>
-  <a href="#"><img alt="PlatformIO" src="https://img.shields.io/badge/-CMake-gray?style=flat&logo=cmake"></a>
+  <a href="#"><img alt="CMake" src="https://img.shields.io/badge/-CMake-gray?style=flat&logo=cmake"></a>
 
 
 
