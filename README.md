@@ -29,9 +29,10 @@
 ### 🧰 Frameworks and libraries
 - Learning
 
-  <a href="#"><img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-orange?style=flat&logo="></a>
-  <a href="#"><img alt="CMake" src="https://img.shields.io/badge/-CMake-gray?style=flat&logo=cmake"></a>
-
+  STM32
+  Zigbee/BLE
+  E-Paper Displays
+  
 
 
 ### 👨‍💻 Programming Languages
@@ -52,6 +53,8 @@
     <a href="#"><img alt="Fusion360" src="https://img.shields.io/badge/-Fusion360-orange?style=flat&logo=autodesk"></a>
     <a href="#"><img alt="uVision" src="https://img.shields.io/badge/-Keil®%20MDK%20uVision-lightblue?style=flat&logo=arm"></a>
     <a href="#"><img alt="pycharm" src="https://img.shields.io/badge/-PyCharm-green?style=flat&logo=PyCharm"></a>
+    <!-- <a href="#"><img alt="Zigbee" src="https://img.shields.io/badge/Zigbee-0078d7.svg?logo=Zigbee&logoColor=white"></a>-->
+    <!-- <a href="#"><img alt="Bluetooth" src="https://img.shields.io/badge/Bluetooth-0078d7.svg?logo=Bluetooth&logoColor=white"></a>-->
     <a href="#"><img alt="STMCubeIDE" src="https://img.shields.io/badge/STMicroelectronics-0078d7.svg?logo=STMicroelectronics&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
