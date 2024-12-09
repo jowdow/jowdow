@@ -12,24 +12,6 @@
 
   I am a graduate of the University of Toledo and building my career in embedded systems. I am very excited to continue my journey as an engineer and help create a better future. 
 
-  Outside of being a dev, I have a giant green thumb and I am slowly growing my indoor/outdoor garden. Being that I live in a normally colder climate, I am growing some exotic things like mango trees(UPDATE: Squirrels dug it out of the ground R.I.P.), banana trees, and avocado as well as normal vegetables like tomatoes, potatoes, peppers, peas, mint(HERB), and many house plants. I have been researching renewables and sustainable practices to make my home, my food, and the world a cleaner place for all.
-
-  I plan to start/complete projects now out of college and have more time to research and develop some of these project ideas. I am currently working and learning more about certain microcontrollers( ESP32, XMC, STM32, RP2040 ). I am also working on learning/using communication platforms like BLE, WIFI, ZIGBEE, MODBUS, and other wired and wireless protocols. My main goal is to make more professional and better-engineered software and hardware.
-  
-### Project Ideas
-- LiDAR System to display/detect curbs
-- IP camera system
-- Miniature automated grid system
-- UAV plane from the ground up
-- NFC checker for items like wallet and keys before leaving home
-- 
-
-### 🧰 Frameworks and libraries
-- Learning
-  Everything...
-  
-
-
 ### 👨‍💻 Programming Languages
 
 <p>
