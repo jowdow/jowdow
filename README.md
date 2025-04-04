@@ -34,5 +34,5 @@
     <!--<a href="#"><img alt="Bluetooth" src="https://img.shields.io/badge/Bluetooth-0078d7.svg?logo=Bluetooth&logoColor=white"></a>-->
     <a href="#"><img alt="STMCubeIDE" src="https://img.shields.io/badge/STMicroelectronics-0078d7.svg?logo=STMicroelectronics&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&       logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
 </p>
